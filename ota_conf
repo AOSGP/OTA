@@ -33,7 +33,7 @@ device_name= ro.cm.device
 #
 # uname -r will only be needed if using the app for kernels, not required here
 
-version_source=ro.cm.version
+version_source=ro.crdroid.version
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
