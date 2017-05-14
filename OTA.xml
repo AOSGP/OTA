@@ -2,154 +2,289 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <athene>
-            <Filename>aosgp-X-2.0-20170206-athene.zip</Filename>
+            <Filename>aosgp-X-2.1.1-20170510-athene.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Motorola/MotoG4-athene/aosgp-X-2.0-20170206-athene.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Motorola/MotoG4-athene/aosgp-X-2.1.1-20170510-athene.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
         </athene>
+      <lux>
+        <Filename>aosgp-X-2.1.1-20170503-lux.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Motorola/MotoXPlay-lux/aosgp-X-2.1.1-20170503-lux.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
+      </lux>
       <paella>
-        <Filename>aosgp-X-2.0-20170206-paella.zip</Filename>
+        <Filename>aosgp-X-2.1.1-20170421-paella.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Bq/BqAquarisX5-paella/aosgp-X-2.0-20170206-paella.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Bq/BqAquarisX5-paella/aosgp-X-2.1.1-20170421-paella.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
       </paella>
-      <d855>
-        <Filename>aosgp-X-2.0-20170206-d855.zip</Filename>
+      <piccolo>
+        <Filename>aosgp-X-2.1.1-20170423-piccolo.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/LG/LGG3-d855/aosgp-X-2.0-20170206-d855.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Bq/BqAquarisM5-piccolo/aosgp-X-2.1.1-20170423-piccolo.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
+      </piccolo>
+      <d855>
+        <Filename>aosgp-X-2.1.1-20170510-d855.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/LG/LGG3-d855/aosgp-X-2.1.1-20170510-d855.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
       </d855>
       <bullhead>
-        <Filename>aosgp-X-2.0-20170206-bullhead.zip</Filename>
+        <Filename>aosgp-X-2.1.1-20170510-bullhead.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/LG/Nexus5x-bullhead/aosgp-X-2.0-20170206-bullhead.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/LG/Nexus5x-bullhead/aosgp-X-2.1.1-20170510-bullhead.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
       </bullhead>
-      <titan>
-        <Filename>aosgp-X-2.0-20170206-titan.zip</Filename>
+      <kiwi>
+        <Filename>aosgp-X-2.1.1-20170506-kiwi.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Motorola/MotoG14-titan/aosgp-X-2.0-20170206-titan.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Huawei/Honor5X-kiwi/aosgp-X-2.1.1-20170506-kiwi.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-      </titan>
-      <falcon>
-        <Filename>aosgp-X-2.0-20170206-falcon.zip</Filename>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
+      </kiwi>
+      <seed>
+        <Filename>aosgp-X-2.1.1-20170512-seed.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Motorola/MotoG13-falcon/aosgp-X-2.0-20170206-falcon.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/General_Mobile/GM4g-seed/aosgp-X-2.1.1-20170512-seed.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-      </falcon>
-      <peregrine>
-        <Filename>aosgp-X-2.0-20170206-peregrine.zip</Filename>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
+      </seed>
+      <shamrock>
+        <Filename>aosgp-X-2.1.1-20170512-shamrock.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Motorola/MotoG4G-peregrine/aosgp-X-2.0-20170206-peregrine.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/General_Mobile/GM5+-shamrock/aosgp-X-2.1.1-20170512-shamrock.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-      </peregrine>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
+      </shamrock>
+      <p2a42>
+        <Filename>aosgp-X-2.1.1-20170507-p2a42.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Lenovo/P2-p2a42/aosgp-X-2.1.1-20170507-p2a42.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
+      </p2a42>
+      <natrium>
+        <Filename>aosgp-X-2.1.1-20170512-natrium.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Xiaomi/Mi5SPlus-natrium/aosgp-X-2.1.1-20170512-natrium.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
+      </natrium>
+      <tomato>
+        <Filename>aosgp-X-2.1.1-20170512-tomato.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Yu/Yureka-tomato/aosgp-X-2.1.1-20170512-tomato.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm-signed.zip</SuUrl>
+      </tomato>
       <oneplus3>
-        <Filename>aosgp-X-2.0-20170206-oneplus3.zip</Filename>
+        <Filename>aosgp-X-2.1-20170324-oneplus3.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/OnePlus/OnePlus3-oneplus3/aosgp-X-2.0-20170206-oneplus3.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/OnePlus/OnePlus3-oneplus3/aosgp-X-2.1-20170324-oneplus3.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
       </oneplus3>
       <gemini>
-        <Filename>aosgp-X-2.0-20170206-gemini.zip</Filename>
+        <Filename>aosgp-X-2.1.1-20170503-gemini.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Xiaomi/Mi5-gemini/aosgp-X-2.0-20170206-gemini.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Xiaomi/Mi5-gemini/aosgp-X-2.1.1-20170503-gemini.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
       </gemini>
       <kenzo>
-        <Filename>aosgp-X-2.0-20170206-kenzo.zip</Filename>
+        <Filename>aosgp-X-2.1.1-20170509-kenzo.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Xiaomi/RedmiNote3Pro-kenzo/aosgp-X-2.0-20170206-kenzo.zip</RomUrl>
-            <!-- <ChangelogUrl
+                description="Download AOSGP build">http://5.189.182.136/downloads/AOSGP/Xiaomi/RedmiNote3Pro-kenzo/aosgp-X-2.1.1-20170509-kenzo.zip</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl> -->
+                description="View Changelog">https://github.com/AOSGP/Changelog/blob/master/Changelog-AOSGP</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
+            	title="Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    <SuUrl
+            	id="su_install"
+            	title="Su"
+            	description="Download Superuser zip">http://5.189.182.136/downloads/AOSGP/Extras/addonsu-arm64-signed.zip</SuUrl>
       </kenzo>
     </Stable>
 </SlimOTA>
